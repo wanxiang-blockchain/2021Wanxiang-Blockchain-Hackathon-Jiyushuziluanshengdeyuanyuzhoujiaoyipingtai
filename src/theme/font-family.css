@@ -1,0 +1,61 @@
+/* [0] */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/notosanstc/v11/-nFkOG829Oofr2wohFbTp9i9kwMvDt1T39Cx8GLqqFgF1gfCybqlyVAxgTa5Jtz_zCzHs2CN4HYM28s.0.woff2) format('woff2');
+  unicode-range: U+1f921-1f930, U+1f932-1f935, U+1f937-1f939, U+1f940-1f944, U+1f947-1f94a, U+1f950-1f95f, U+1f962-1f967, U+1f969-1f96a, U+1f980-1f981, U+1f984-1f98d, U+1f990-1f992, U+1f994-1f996, U+1f9c0, U+1f9d0, U+1f9d2, U+1f9d4, U+1f9d6, U+1f9d8, U+1f9da, U+1f9dc-1f9dd, U+1f9df-1f9e2, U+1f9e5-1f9e6, U+20024, U+20487, U+20779, U+20c41, U+20c78, U+20d71, U+20e98, U+20ef9, U+2107b, U+210c1, U+22c51, U+233b4, U+24a12, U+2512b, U+2546e, U+25683, U+267cc, U+269f2, U+27657, U+282e2, U+2898d, U+29d5a, U+f0001-f0005, U+f0019, U+f009b, U+f0101-f0104, U+f012b, U+f01ba, U+f01d6, U+f0209, U+f0217, U+f0223-f0224, U+fc355, U+fe327, U+fe517, U+feb97, U+fffb4;
+}
+
+@font-face {
+  font-family: 'lulo-clean-w01-one-bold';
+  font-style: normal;
+  font-weight: bold;
+  src: url(https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/aee74cb3-c913-4b54-9722-6001c92325f2.woff2) format('woff2');
+  unicode-range: U+20-22, U+27-2a, U+2c-3b, U+3f, U+41-5d, U+61-7b, U+7d, U+a0, U+ab, U+ae, U+b2-b3, U+b7, U+bb, U+bf, U+c9, U+cd, U+d6, U+e0-ef, U+f1-f4, U+f6, U+f9-fa, U+fc-fd, U+101, U+103, U+110-111, U+113, U+12b, U+14d, U+16b, U+1a1, U+1b0, U+1ce, U+300-301, U+1ea1, U+1ea3, U+1ebf, U+1ec7, U+2013-2014, U+2039-203a, U+203c, U+2122, U+3001-3002, U+4e00, U+4e0a-4e0b, U+4e0d, U+4e2d, U+4eba, U+4ee5, U+4f5c, U+4f86, U+500b, U+5011, U+5165, U+5168, U+516c, U+51fa, U+5206, U+5230, U+52d5, U+53ef-53f0, U+570b, U+5728, U+5730, U+591a, U+5927, U+5929, U+597d, U+5b50, U+5bb6, U+5c0f, U+5e73-5e74, U+5fc3, U+6210-6211, U+6240, U+6587, U+65b0, U+65b9, U+65bc, U+65e5, U+660e, U+662f, U+6642, U+66f4, U+6700, U+6703, U+6708-6709, U+672c, U+6b63, U+6cbb, U+70b9-70ba, U+751f, U+7528, U+767c, U+7684, U+76f8, U+7db2, U+7f8e, U+80fd, U+81ea, U+884c, U+8981, U+958b, U+95dc, U+96fb, U+9801, U+9996, U+ff0c, U+ff1a;
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Regular;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Regular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Bold;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Bold.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-ExtraLight;
+  src: url(/public/SourceHanSans/SourceHanSansCN-ExtraLight.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Heavy;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Heavy.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Light;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Light.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Medium;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Medium.otf) format("opentype");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Normal;
+  src: url(/public/SourceHanSans/SourceHanSansCN-Normal.otf) format("opentype");
+}
+
+@font-face {
+  font-family: ChalkboardSE-Bold;
+  src: url(/public/Font/ChalkboardSE.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: ChalkboardSE-Bold;
+  src: url(/public/Font/DIN-Condensed-Bold.ttf) format("truetype");
+}
